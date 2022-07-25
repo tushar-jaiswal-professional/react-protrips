@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-protrips/static/css/main.ef1b9309.css",
+    "main.js": "/react-protrips/static/js/main.67bc2f10.js",
+    "static/media/trophy.svg": "/react-protrips/static/media/trophy.1317b9572a4a7f1f29188fa52e22eff9.svg",
+    "static/media/trek.svg": "/react-protrips/static/media/trek.3b9b859c69220b5cfdc2e579b73d65b7.svg",
+    "static/media/add.svg": "/react-protrips/static/media/add.5197f0bc7189ce0a43f8f44646718607.svg",
+    "static/media/list.svg": "/react-protrips/static/media/list.34a517dbec1ccd1be78006f36db83e7c.svg",
+    "static/media/sun.svg": "/react-protrips/static/media/sun.7b44ffcd0a795bb10bf2b91f254a9b6f.svg",
+    "index.html": "/react-protrips/index.html",
+    "static/media/home.svg": "/react-protrips/static/media/home.e33adb690bb92db3ca076705febee0c7.svg",
+    "main.ef1b9309.css.map": "/react-protrips/static/css/main.ef1b9309.css.map",
+    "main.67bc2f10.js.map": "/react-protrips/static/js/main.67bc2f10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef1b9309.css",
+    "static/js/main.67bc2f10.js"
+  ]
+}
