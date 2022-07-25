@@ -16,7 +16,7 @@ function App() {
   <BrowserRouter> 
     <div className='main'>
       <div className='nav'>
-        <Link to='/'><img src={home} alt='home' className='logo'/></Link>
+        <Link to='/react-protrips'><img src={home} alt='home' className='logo'/></Link>
         <Link to='add'><img src={add} alt='add' className='logo'/></Link>
         <Link to='list'><img src={list} alt='add' className='logo'/></Link>
       </div>
